@@ -10,7 +10,7 @@ function App() {
 
       {/* Hero Section */}
       <header style={{ background: '#1f2937', color: 'white', padding: '2rem 0', textAlign: 'center' }}>
-        <img src="/Profile.jpg.png" alt="Profile" style={{ width: '100px', borderRadius: '50%' }} />
+        <img src="/Profile.jpg.jpg" alt="Profile" style={{ width: '100px', borderRadius: '50%' }} />
         <h1>Hi, I'm <span style={{ color: '#60a5fa' }}>RaghuVardhanReddy</span></h1>
 
         <h3 style={{ marginTop: '1rem' }}>
